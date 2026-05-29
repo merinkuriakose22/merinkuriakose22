@@ -1,10 +1,11 @@
 - Hi, I’m @merinkuriakose22
--  Education:Pursuing B-Tech in CSE(AI)
--  I’m interested in cloud computing, data analysis,computer vision,NLP
+- Education:Pursuing B-Tech in CSE(AI)
+- I’m interested in cloud computing, data analysis,computer vision,NLP
 - I’m currently learning cloud computing
--  I’m looking to collaborate on computer vision projects
--  How to reach me LinkedIn:https://www.linkedin.com/in/merin-kuriakose-985bb0285
--  Fun fact: I love exploring new cultures
+- I’m looking to collaborate on computer vision projects
+- How to reach me LinkedIn:https://www.linkedin.com/in/merin-kuriakose-985bb0285
+- How to reach me email:merinkuriakose710@gmail.com
+- Fun fact: I love exploring new cultures
 
 <!---
 merinkuriakose22/merinkuriakose22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
